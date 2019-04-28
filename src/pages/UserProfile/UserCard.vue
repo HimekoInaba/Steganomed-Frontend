@@ -8,7 +8,7 @@
       <h6 class="category text-gray">{{ role }}</h6>
       <h4 class="card-title">{{ username }}</h4>
       <p class="card-description">
-        Йо собаки, я Наруто Узумаки
+        Welcome to your userpage!
       </p>
     </md-card-content>
   </md-card>
